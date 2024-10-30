@@ -2,8 +2,8 @@
 Revisão que estou a fazer de JavaScript Completa com o Objetivo de revisitar tudo que tem nele, e após isso focar em React
 
 <h1>Tópicos Abordados:</h1>
-- Sintaxe básica e variáveis – Como declarar variáveis e tipos de dados.
-- Operadores aritméticos e lógicos – Realizar cálculos e comparações.
+- Sintaxe básica e variáveis – Como declarar variáveis e tipos de dados. <br>
+- Operadores aritméticos e lógicos – Realizar cálculos e comparações. <br>
 - Estruturas condicionais (if, else if, else) – Controle de fluxo com condições.
 - Loops (for, while) – Laços de repetição para percorrer listas ou realizar tarefas repetitivas.
 - Manipulação de Arrays – Métodos como map, filter, e reduce.
