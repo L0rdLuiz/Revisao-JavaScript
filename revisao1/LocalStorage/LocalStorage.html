@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <input type="text" id="nomeUsuario" placeholder="Digite seu nome">
+    <input type="number" id="idadeUsuario" placeholder="Digite sua Idade">
+    <button id="salvarNome">Salvar Nome e Idade</button>
+    <p id="nomeSaudacao"></p>
+    <button id="limparDados">Limpar Dados</button>
+
+    <script>
+        document.getElementById("salvarNome").addEventListener("click", () => {
+            let nome = document.getElementById("nomeUsuario").value;
+            let idade = document.getElementById("idadeUsuario").value;
+            localStorage.setItem("nome", nome);
+            localStorage.setItem("idade", idade);
+            exibirNome();
+        });
+
+        document.getElementById("limparDados").addEventListener("click", () => {
+            localStorage.clear();
+            exibirNome();
+        });
+
+        function exibirNome() {
+            let nome = localStorage.getItem("nome");
+            let idade = localStorage.getItem("idade");
+            if (nome && idade) {
+                document.getElementById("nomeSaudacao").innerText = "Bem-vindo, " + nome + " a sua idade é: " + idade;
+            }
+        }
+
+        exibirNome();
+    </script>
+</body>
+</html>
