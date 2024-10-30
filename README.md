@@ -28,7 +28,7 @@ Revisão que estou a fazer de JavaScript Completa com o Objetivo de revisitar tu
 <br>
 
 <h3>Como estou estudando: </h3>
-- Estou utilizando o GPT para auxiliar para verificar todos os tópicos que estão sendo abordados. <br>
+- Estou utilizando o GPT e a W3Schools para auxiliar para verificar todos os tópicos que estão sendo abordados. <br>
 - Fazendo Cursos online focados em alguma área. <br>
 - Videos de Professores focados na parte que estou estudando <br>
 - Anotando todo conteúdo no caderno <br>
