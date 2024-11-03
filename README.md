@@ -12,13 +12,16 @@ Revisão que estou a fazer de JavaScript Completa com o Objetivo de revisitar tu
 - Promise e manipulação assíncrona – Uso de Promise, .then(), .catch() para controlar código assíncrono. <br>
 - DOM (Document Object Model) – Acessar e manipular elementos HTML, eventos e modificações dinâmicas. <br>
 - Armazenamento Local (localStorage e sessionStorage) – Salvar dados no navegador para uso persistente. <br>
+- Promessas e .then(): Implementação básica com resolve e reject. <br>
+- Async/Await: Estrutura assíncrona com try...catch. <br>
+- setTimeout e setInterval: Controle de temporizadores em JavaScript. <br>
+- fetch API: Requisição assíncrona para APIs externas com fetch, tratamento de erros e conversão de dados com .json(). <br>
 <br>
 
 <h1>Próximos Tópicos:</h1>
-- Funções Assíncronas e async/await – Tornar o controle de código assíncrono mais intuitivo com async/await, facilitando o uso de Promises. <br>
-- JSON e consumo de APIs – Introdução ao formato JSON e prática com APIs para manipular dados externos, além de exibí-los no DOM. <br>
-- Programação Orientada a Objetos (POO) e Classes – Criação de classes e objetos para organização e reaproveitamento de código. <br>
-- Módulos – Uso de export e import para dividir o código em múltiplos arquivos e manter uma estrutura mais organizada. <br>
+- Async/Await avançado: Tratamento de múltiplas promessas e controle de erros complexos. <br>
+- Módulos em JavaScript: Importação e exportação de funções e variáveis. <br>
+- Revisão final e projeto de integração: Resumo e aplicação prática de todos os conceitos. <br>
 <br>
 
 <h3>Objetivo Total:</h3>
