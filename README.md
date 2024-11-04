@@ -16,11 +16,12 @@ Revisão que estou a fazer de JavaScript Completa com o Objetivo de revisitar tu
 - Async/Await: Estrutura assíncrona com try...catch. <br>
 - setTimeout e setInterval: Controle de temporizadores em JavaScript. <br>
 - fetch API: Requisição assíncrona para APIs externas com fetch, tratamento de erros e conversão de dados com .json(). <br>
+- Async/Await avançado: Tratamento de múltiplas promessas e controle de erros complexos. <br>
+- Módulos em JavaScript: Importação e exportação de funções e variáveis. <br>
+- Funções de cálculo: Implementação de operações matemáticas (soma, subtração, multiplicação, divisão) utilizando módulos. <br>
 <br>
 
 <h1>Próximos Tópicos:</h1>
-- Async/Await avançado: Tratamento de múltiplas promessas e controle de erros complexos. <br>
-- Módulos em JavaScript: Importação e exportação de funções e variáveis. <br>
 - Revisão final e projeto de integração: Resumo e aplicação prática de todos os conceitos. <br>
 <br>
 
