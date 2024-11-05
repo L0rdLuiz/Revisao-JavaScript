@@ -19,10 +19,11 @@ Revisão que estou a fazer de JavaScript Completa com o Objetivo de revisitar tu
 - Async/Await avançado: Tratamento de múltiplas promessas e controle de erros complexos. <br>
 - Módulos em JavaScript: Importação e exportação de funções e variáveis. <br>
 - Funções de cálculo: Implementação de operações matemáticas (soma, subtração, multiplicação, divisão) utilizando módulos. <br>
+- Revisão final abordando tudo aprendido. <br>
 <br>
 
 <h1>Próximos Tópicos:</h1>
-- Revisão final e projeto de integração: Resumo e aplicação prática de todos os conceitos. <br>
+- Procurando cursos para melhorar minha lógica no JavaScript <br>
 <br>
 
 <h3>Objetivo Total:</h3>
